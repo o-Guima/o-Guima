@@ -10,7 +10,7 @@
       </td>
       <td>
         <img src="https://i.gifer.com/6mr.gif" width="125"/><br/><br/> 
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliekrishna&layout=compact&langs_count=16&theme=gotham"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Guima&layout=compact&langs_count=16&theme=gotham"/>
       </td>
     </tr>
   </table>
